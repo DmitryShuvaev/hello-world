@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>paddle_hit.wav</file>
+        <file>score.wav</file>
+        <file>wall_hit.wav</file>
+    </qresource>
+</RCC>
