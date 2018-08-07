@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>background.png</file>
+        <file>ground.png</file>
+        <file>bird.png</file>
+        <file>pipe.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>marios_way.mp3</file>
+        <file>jump.wav</file>
+        <file>hurt.wav</file>
+        <file>explosion.wav</file>
+        <file>score.wav</file>
+    </qresource>
+</RCC>
