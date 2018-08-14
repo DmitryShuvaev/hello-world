@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/graphics">
+        <file>graphics/background.png</file>
+        <file>graphics/ui.png</file>
+        <file>graphics/breakout.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sounds/brick-hit-1.wav</file>
+        <file>sounds/brick-hit-2.wav</file>
+        <file>sounds/confirm.wav</file>
+        <file>sounds/high_score.wav</file>
+        <file>sounds/hurt.wav</file>
+        <file>sounds/music.wav</file>
+        <file>sounds/no-select.wav</file>
+        <file>sounds/paddle_hit.wav</file>
+        <file>sounds/pause.wav</file>
+        <file>sounds/recover.wav</file>
+        <file>sounds/score.wav</file>
+        <file>sounds/select.wav</file>
+        <file>sounds/victory.wav</file>
+        <file>sounds/wall_hit.wav</file>
+    </qresource>
+</RCC>
