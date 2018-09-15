@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>character.png</file>
+        <file>tile_tops.png</file>
+        <file>tiles.png</file>
+        <file>creatures.png</file>
+    </qresource>
+</RCC>
